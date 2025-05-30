@@ -1,0 +1,37 @@
+<entrevista>
+<titulo>Memórias Inesquecíveis</titulo>
+    <metadados_pessoais>
+        <nome>Kaio Aood</nome>
+        <idade>28</idade>
+        <genero>Maculino</genero>
+        <nacionalidade>Brasil</nacionalidade>
+        <localizacao>[Braga</localizacao>
+        <data_entrevista>04/03/2025</data_entrevista>
+    </metadados_pessoais>
+    <questao id="1">
+        <pergunta>Qual é a memória mais feliz que você tem da sua infância?</pergunta>
+        <resposta>
+            <texto>Quando eu, meus pais, tios e primos nos reuníamos no quintal dos meus avós para brincarmos, adultos e crianças juntos,
+            fazendo jogos competitivos de caráter lúdico, obviamente, mas juntos, nos divertindo.</texto>
+            
+        </resposta>
+    </questao>
+    <questao id="2">
+        <pergunta>Você já passou por alguma situação difícil que, no final, se tornou uma memória inesquecível e positiva?</pergunta>
+        <resposta>
+            <texto>difíceis e de vulnerabilidade, das quais superei meus limites, me tornei mais forte, e mais maduro.
+            Quando cheguei em Portugal tive de dormir numa carrinha, no meio do nada por vários dias, Então essa foi a situação mais difícil e
+            inesquecivel pra mim, me superei e hoje estou aqui.</texto>
+            
+        </resposta>
+    </questao>
+    <questao id="3">
+        <pergunta>Existe alguma viagem ou evento especial que você considera uma memória inesquecível?</pergunta>
+        <resposta>
+            <texto>Várias, a minha primeira vez vendo a neve, na tierra del fuego, na argentina. O passeio nas cataratas do Iguaçu, a caminhada nas
+            dunas infinitas dos lençóis maranhenses, o passeio de barco em Istambul, a caminhada nas ruas estreitas de Marrakesh...
+            Várias viagens inesquecíveis, impossível ranquear qual a memória afetiva mais importante entre elas.</texto>
+            
+        </resposta>
+    </questao>
+</entrevista>

@@ -1,0 +1,1 @@
+![Relogio Roscoff](Entrevistas/Entrevistas Oficiais/Ana Paula/Baú de Família/relogio.jpeg)
