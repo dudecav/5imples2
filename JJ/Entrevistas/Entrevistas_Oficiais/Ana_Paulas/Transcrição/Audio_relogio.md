@@ -24,9 +24,9 @@ Pronto, achei graça e até...
 
 **Ent.:** Mas tens um relógio novo? Não, esta aqui é a marca Roscoff. Passaram a ser sinal de durabilidade e não de coisa de fraca qualidade. 
 
-Eu até vou ver se é que funciona.
+**Luís:** Eu até vou ver se é que funciona.
 
-Mas independente, depende. 
+Mas independentemente de estar... 
 
 **Ent.:** E faz barulho? Ah, sim, tic-tac. Tic-tac.
 
