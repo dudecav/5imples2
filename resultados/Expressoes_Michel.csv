@@ -1,0 +1,873 @@
+expressao,frequencia,tipo
+meu filho,3,bigram
+com o,3,bigram
+a fazer,2,bigram
+falar contigo,2,bigram
+orgulhosa entrevistado,2,bigram
+os outros,2,bigram
+vejo isso,2,bigram
+isso em,2,bigram
+e sim,2,bigram
+isso é,2,bigram
+de ti,2,bigram
+a gente,2,bigram
+mesmo quando,2,bigram
+o meu,2,bigram
+que tu,2,bigram
+essa força,2,bigram
+mesmo assim,2,bigram
+que é,2,bigram
+entrevistador oi,1,bigram
+oi mãe,1,bigram
+mãe tudo,1,bigram
+tudo bem,1,bigram
+bem estou,1,bigram
+estou a,1,bigram
+fazer um,1,bigram
+um trabalho,1,bigram
+trabalho da,1,bigram
+da universidade,1,bigram
+universidade e,1,bigram
+e precisava,1,bigram
+precisava mesmo,1,bigram
+mesmo falar,1,bigram
+contigo é,1,bigram
+é só,1,bigram
+só uma,1,bigram
+uma entrevista,1,bigram
+entrevista rápida,1,bigram
+rápida coisa,1,bigram
+coisa de,1,bigram
+de uns,1,bigram
+uns 20,1,bigram
+20 minutos,1,bigram
+minutos pode,1,bigram
+pode ser,1,bigram
+ser entrevistado,1,bigram
+entrevistado oi,1,bigram
+oi meu,1,bigram
+filho tudo,1,bigram
+tudo sim,1,bigram
+sim graças,1,bigram
+graças a,1,bigram
+a deus,1,bigram
+deus claro,1,bigram
+claro que,1,bigram
+que sim,1,bigram
+sim diz,1,bigram
+diz lá,1,bigram
+lá entrevistador,1,bigram
+entrevistador então,1,bigram
+então queria,1,bigram
+queria começar,1,bigram
+começar com,1,bigram
+com uma,1,bigram
+uma pergunta,1,bigram
+pergunta mais,1,bigram
+mais emocional,1,bigram
+emocional que,1,bigram
+que característica,1,bigram
+característica herdaste,1,bigram
+herdaste de,1,bigram
+de um,1,bigram
+um dos,1,bigram
+dos teus,1,bigram
+teus pais,1,bigram
+pais e,1,bigram
+e da,1,bigram
+da qual,1,bigram
+qual te,1,bigram
+te sentes,1,bigram
+sentes orgulhosa,1,bigram
+entrevistado hmm,1,bigram
+hmm boa,1,bigram
+boa pergunta,1,bigram
+pergunta acho,1,bigram
+acho que,1,bigram
+que herdei,1,bigram
+herdei da,1,bigram
+da minha,1,bigram
+minha mãe,1,bigram
+mãe a,1,bigram
+a empatia,1,bigram
+empatia ela,1,bigram
+ela era,1,bigram
+era uma,1,bigram
+uma mulher,1,bigram
+mulher de,1,bigram
+de coração,1,bigram
+coração grande,1,bigram
+grande mesmo,1,bigram
+mesmo sem,1,bigram
+sem ter,1,bigram
+ter muito,1,bigram
+muito sempre,1,bigram
+sempre ajudava,1,bigram
+ajudava os,1,bigram
+outros família,1,bigram
+família vizinhos,1,bigram
+vizinhos até,1,bigram
+até pessoas,1,bigram
+pessoas que,1,bigram
+que ela,1,bigram
+ela nem,1,bigram
+nem conhecia,1,bigram
+conhecia bem,1,bigram
+bem e,1,bigram
+e eu,1,bigram
+eu vejo,1,bigram
+em mim,1,bigram
+mim também,1,bigram
+também às,1,bigram
+às vezes,1,bigram
+vezes até,1,bigram
+até demais,1,bigram
+demais risos,1,bigram
+risos sempre,1,bigram
+sempre fui,1,bigram
+fui de,1,bigram
+de acolher,1,bigram
+acolher ouvir,1,bigram
+ouvir preocupar-me,1,bigram
+preocupar-me com,1,bigram
+com os,1,bigram
+outros e,1,bigram
+sim isso,1,bigram
+é algo,1,bigram
+algo que,1,bigram
+que me,1,bigram
+me dá,1,bigram
+dá muito,1,bigram
+muito orgulho,1,bigram
+orgulho porque,1,bigram
+porque hoje,1,bigram
+hoje em,1,bigram
+em dia,1,bigram
+dia o,1,bigram
+o mundo,1,bigram
+mundo tá,1,bigram
+tá muito,1,bigram
+muito frio,1,bigram
+frio muito,1,bigram
+muito egoísta,1,bigram
+egoísta entrevistador,1,bigram
+entrevistador é,1,bigram
+é verdade,1,bigram
+verdade lembro,1,bigram
+lembro bem,1,bigram
+bem de,1,bigram
+ti a,1,bigram
+a cuidar,1,bigram
+cuidar de,1,bigram
+de toda,1,bigram
+toda a,1,bigram
+gente mesmo,1,bigram
+quando estavas,1,bigram
+estavas cansada,1,bigram
+cansada entrevistado,1,bigram
+entrevistado pois,1,bigram
+pois é,1,bigram
+é a,1,bigram
+gente aprende,1,bigram
+aprende com,1,bigram
+o exemplo,1,bigram
+exemplo e,1,bigram
+e ela,1,bigram
+ela foi,1,bigram
+foi o,1,bigram
+meu entrevistador,1,bigram
+entrevistador e,1,bigram
+e agora,1,bigram
+agora ao,1,bigram
+ao contrário,1,bigram
+contrário tem,1,bigram
+tem alguma,1,bigram
+alguma característica,1,bigram
+característica tua,1,bigram
+tua que,1,bigram
+tu achas,1,bigram
+achas que,1,bigram
+que eu,1,bigram
+eu ou,1,bigram
+ou a,1,bigram
+a minha,1,bigram
+minha irmã,1,bigram
+irmã herdámos,1,bigram
+herdámos e,1,bigram
+e que,1,bigram
+que te,1,bigram
+te deixa,1,bigram
+deixa orgulhosa,1,bigram
+entrevistado ahhh,1,bigram
+ahhh com,1,bigram
+com certeza,1,bigram
+certeza a,1,bigram
+a tua,1,bigram
+tua força,1,bigram
+força de,1,bigram
+de vontade,1,bigram
+vontade sempre,1,bigram
+sempre lutei,1,bigram
+lutei pelos,1,bigram
+pelos meus,1,bigram
+meus objetivos,1,bigram
+objetivos mesmo,1,bigram
+quando tudo,1,bigram
+tudo parecia,1,bigram
+parecia difícil,1,bigram
+difícil eu,1,bigram
+eu nunca,1,bigram
+nunca parei,1,bigram
+parei e,1,bigram
+e vejo,1,bigram
+em ti,1,bigram
+ti txelito,1,bigram
+txelito saíste,1,bigram
+saíste do,1,bigram
+do país,1,bigram
+país estás,1,bigram
+estás a,1,bigram
+a estudar,1,bigram
+estudar a,1,bigram
+a trabalhar,1,bigram
+trabalhar a,1,bigram
+fazer tudo,1,bigram
+tudo sozinho,1,bigram
+sozinho isso,1,bigram
+é teu,1,bigram
+teu mas,1,bigram
+mas também,1,bigram
+também tem,1,bigram
+tem ali,1,bigram
+ali um,1,bigram
+um bocadinho,1,bigram
+bocadinho meu,1,bigram
+meu risos,1,bigram
+risos e,1,bigram
+sim fico,1,bigram
+fico mesmo,1,bigram
+mesmo muito,1,bigram
+muito orgulhosa,1,bigram
+orgulhosa disso,1,bigram
+disso entrevistador,1,bigram
+entrevistador aww,1,bigram
+aww mãe,1,bigram
+mãe agora,1,bigram
+agora fiquei,1,bigram
+fiquei com,1,bigram
+o coração,1,bigram
+coração apertado,1,bigram
+apertado risos,1,bigram
+risos entrevistador,1,bigram
+entrevistador lembras-te,1,bigram
+lembras-te de,1,bigram
+de alguma,1,bigram
+alguma situação,1,bigram
+situação que,1,bigram
+que mostra,1,bigram
+mostra bem,1,bigram
+bem essa,1,bigram
+força que,1,bigram
+tu passaste,1,bigram
+passaste para,1,bigram
+para nós,1,bigram
+nós entrevistado,1,bigram
+entrevistado lembro,1,bigram
+lembro sim,1,bigram
+sim quando,1,bigram
+quando chegaste,1,bigram
+chegaste em,1,bigram
+em portugal,1,bigram
+portugal sem,1,bigram
+sem muito,1,bigram
+muito dinheiro,1,bigram
+dinheiro sem,1,bigram
+sem casa,1,bigram
+casa certa,1,bigram
+certa tudo,1,bigram
+tudo incerto,1,bigram
+incerto mesmo,1,bigram
+assim tu,1,bigram
+tu não,1,bigram
+não me,1,bigram
+me pediste,1,bigram
+pediste nada,1,bigram
+nada tu,1,bigram
+tu desenrascaste-te,1,bigram
+desenrascaste-te foste,1,bigram
+foste trabalhar,1,bigram
+trabalhar estudar,1,bigram
+estudar aguentaste,1,bigram
+aguentaste e,1,bigram
+e isso,1,bigram
+isso fez-me,1,bigram
+fez-me lembrar,1,bigram
+lembrar de,1,bigram
+de quando,1,bigram
+quando eu,1,bigram
+eu fui,1,bigram
+fui viver,1,bigram
+viver com,1,bigram
+o teu,1,bigram
+teu pai,1,bigram
+pai também,1,bigram
+também queria,1,bigram
+queria estudar,1,bigram
+estudar mas,1,bigram
+mas tive,1,bigram
+tive de,1,bigram
+de trabalhar,1,bigram
+trabalhar logo,1,bigram
+logo depois,1,bigram
+depois engravidei,1,bigram
+engravidei da,1,bigram
+da tua,1,bigram
+tua irmã,1,bigram
+irmã e,1,bigram
+e mesmo,1,bigram
+assim consegui,1,bigram
+consegui dar,1,bigram
+dar a,1,bigram
+a volta,1,bigram
+volta segui,1,bigram
+segui em,1,bigram
+em frente,1,bigram
+frente mesmo,1,bigram
+mesmo cansada,1,bigram
+cansada e,1,bigram
+e essa,1,bigram
+força essa,1,bigram
+essa coragem,1,bigram
+coragem tá,1,bigram
+tá aí,1,bigram
+aí dentro,1,bigram
+dentro de,1,bigram
+ti também,1,bigram
+também entrevistador,1,bigram
+entrevistador sim,1,bigram
+sim eu,1,bigram
+eu lembro,1,bigram
+lembro que,1,bigram
+que já,1,bigram
+já me,1,bigram
+me contaste,1,bigram
+contaste isso,1,bigram
+isso mas,1,bigram
+mas queria,1,bigram
+queria ouvir,1,bigram
+ouvir agora,1,bigram
+agora outra,1,bigram
+outra vez,1,bigram
+vez pra,1,bigram
+pra poder,1,bigram
+poder usar,1,bigram
+usar no,1,bigram
+no meu,1,bigram
+meu trabalho,1,bigram
+trabalho sempre,1,bigram
+sempre foste,1,bigram
+foste o,1,bigram
+meu exemplo,1,bigram
+exemplo de,1,bigram
+de coragem,1,bigram
+coragem entrevistador,1,bigram
+entrevistador obrigado,1,bigram
+obrigado mãe,1,bigram
+mãe foi,1,bigram
+foi mesmo,1,bigram
+mesmo bom,1,bigram
+bom falar,1,bigram
+contigo agora,1,bigram
+agora vou,1,bigram
+vou escrever,1,bigram
+escrever isto,1,bigram
+isto tudo,1,bigram
+tudo e,1,bigram
+e traduzir,1,bigram
+traduzir também,1,bigram
+também que,1,bigram
+é para,1,bigram
+para entregar,1,bigram
+entregar na,1,bigram
+na universidade,1,bigram
+universidade entrevistado,1,bigram
+entrevistado está,1,bigram
+está bem,1,bigram
+bem meu,1,bigram
+filho depois,1,bigram
+depois manda,1,bigram
+manda pra,1,bigram
+pra eu,1,bigram
+eu ver,1,bigram
+ver como,1,bigram
+como ficou,1,bigram
+ficou sim,1,bigram
+sim entrevistador,1,bigram
+entrevistador deixa-me,1,bigram
+deixa-me só,1,bigram
+só tirar,1,bigram
+tirar uma,1,bigram
+uma foto,1,bigram
+foto desta,1,bigram
+desta chamada,1,bigram
+chamada que,1,bigram
+é pra,1,bigram
+pra pôr,1,bigram
+pôr como,1,bigram
+como registo,1,bigram
+registo entrevistado,1,bigram
+entrevistado vai,1,bigram
+vai lá,1,bigram
+lá beijinhos,1,bigram
+beijinhos meu,1,bigram
+filho qualquer,1,bigram
+qualquer coisa,1,bigram
+coisa estou,1,bigram
+estou aqui,1,bigram
+aqui te,1,bigram
+te amo,1,bigram
+vejo isso em,2,trigram
+entrevistador oi mãe,1,trigram
+oi mãe tudo,1,trigram
+mãe tudo bem,1,trigram
+tudo bem estou,1,trigram
+bem estou a,1,trigram
+estou a fazer,1,trigram
+a fazer um,1,trigram
+fazer um trabalho,1,trigram
+um trabalho da,1,trigram
+trabalho da universidade,1,trigram
+da universidade e,1,trigram
+universidade e precisava,1,trigram
+e precisava mesmo,1,trigram
+precisava mesmo falar,1,trigram
+mesmo falar contigo,1,trigram
+falar contigo é,1,trigram
+contigo é só,1,trigram
+é só uma,1,trigram
+só uma entrevista,1,trigram
+uma entrevista rápida,1,trigram
+entrevista rápida coisa,1,trigram
+rápida coisa de,1,trigram
+coisa de uns,1,trigram
+de uns 20,1,trigram
+uns 20 minutos,1,trigram
+20 minutos pode,1,trigram
+minutos pode ser,1,trigram
+pode ser entrevistado,1,trigram
+ser entrevistado oi,1,trigram
+entrevistado oi meu,1,trigram
+oi meu filho,1,trigram
+meu filho tudo,1,trigram
+filho tudo sim,1,trigram
+tudo sim graças,1,trigram
+sim graças a,1,trigram
+graças a deus,1,trigram
+a deus claro,1,trigram
+deus claro que,1,trigram
+claro que sim,1,trigram
+que sim diz,1,trigram
+sim diz lá,1,trigram
+diz lá entrevistador,1,trigram
+lá entrevistador então,1,trigram
+entrevistador então queria,1,trigram
+então queria começar,1,trigram
+queria começar com,1,trigram
+começar com uma,1,trigram
+com uma pergunta,1,trigram
+uma pergunta mais,1,trigram
+pergunta mais emocional,1,trigram
+mais emocional que,1,trigram
+emocional que característica,1,trigram
+que característica herdaste,1,trigram
+característica herdaste de,1,trigram
+herdaste de um,1,trigram
+de um dos,1,trigram
+um dos teus,1,trigram
+dos teus pais,1,trigram
+teus pais e,1,trigram
+pais e da,1,trigram
+e da qual,1,trigram
+da qual te,1,trigram
+qual te sentes,1,trigram
+te sentes orgulhosa,1,trigram
+sentes orgulhosa entrevistado,1,trigram
+orgulhosa entrevistado hmm,1,trigram
+entrevistado hmm boa,1,trigram
+hmm boa pergunta,1,trigram
+boa pergunta acho,1,trigram
+pergunta acho que,1,trigram
+acho que herdei,1,trigram
+que herdei da,1,trigram
+herdei da minha,1,trigram
+da minha mãe,1,trigram
+minha mãe a,1,trigram
+mãe a empatia,1,trigram
+a empatia ela,1,trigram
+empatia ela era,1,trigram
+ela era uma,1,trigram
+era uma mulher,1,trigram
+uma mulher de,1,trigram
+mulher de coração,1,trigram
+de coração grande,1,trigram
+coração grande mesmo,1,trigram
+grande mesmo sem,1,trigram
+mesmo sem ter,1,trigram
+sem ter muito,1,trigram
+ter muito sempre,1,trigram
+muito sempre ajudava,1,trigram
+sempre ajudava os,1,trigram
+ajudava os outros,1,trigram
+os outros família,1,trigram
+outros família vizinhos,1,trigram
+família vizinhos até,1,trigram
+vizinhos até pessoas,1,trigram
+até pessoas que,1,trigram
+pessoas que ela,1,trigram
+que ela nem,1,trigram
+ela nem conhecia,1,trigram
+nem conhecia bem,1,trigram
+conhecia bem e,1,trigram
+bem e eu,1,trigram
+e eu vejo,1,trigram
+eu vejo isso,1,trigram
+isso em mim,1,trigram
+em mim também,1,trigram
+mim também às,1,trigram
+também às vezes,1,trigram
+às vezes até,1,trigram
+vezes até demais,1,trigram
+até demais risos,1,trigram
+demais risos sempre,1,trigram
+risos sempre fui,1,trigram
+sempre fui de,1,trigram
+fui de acolher,1,trigram
+de acolher ouvir,1,trigram
+acolher ouvir preocupar-me,1,trigram
+ouvir preocupar-me com,1,trigram
+preocupar-me com os,1,trigram
+com os outros,1,trigram
+os outros e,1,trigram
+outros e sim,1,trigram
+e sim isso,1,trigram
+sim isso é,1,trigram
+isso é algo,1,trigram
+é algo que,1,trigram
+algo que me,1,trigram
+que me dá,1,trigram
+me dá muito,1,trigram
+dá muito orgulho,1,trigram
+muito orgulho porque,1,trigram
+orgulho porque hoje,1,trigram
+porque hoje em,1,trigram
+hoje em dia,1,trigram
+em dia o,1,trigram
+dia o mundo,1,trigram
+o mundo tá,1,trigram
+mundo tá muito,1,trigram
+tá muito frio,1,trigram
+muito frio muito,1,trigram
+frio muito egoísta,1,trigram
+muito egoísta entrevistador,1,trigram
+egoísta entrevistador é,1,trigram
+entrevistador é verdade,1,trigram
+é verdade lembro,1,trigram
+verdade lembro bem,1,trigram
+lembro bem de,1,trigram
+bem de ti,1,trigram
+de ti a,1,trigram
+ti a cuidar,1,trigram
+a cuidar de,1,trigram
+cuidar de toda,1,trigram
+de toda a,1,trigram
+toda a gente,1,trigram
+a gente mesmo,1,trigram
+gente mesmo quando,1,trigram
+mesmo quando estavas,1,trigram
+quando estavas cansada,1,trigram
+estavas cansada entrevistado,1,trigram
+cansada entrevistado pois,1,trigram
+entrevistado pois é,1,trigram
+pois é a,1,trigram
+é a gente,1,trigram
+a gente aprende,1,trigram
+gente aprende com,1,trigram
+aprende com o,1,trigram
+com o exemplo,1,trigram
+o exemplo e,1,trigram
+exemplo e ela,1,trigram
+e ela foi,1,trigram
+ela foi o,1,trigram
+foi o meu,1,trigram
+o meu entrevistador,1,trigram
+meu entrevistador e,1,trigram
+entrevistador e agora,1,trigram
+e agora ao,1,trigram
+agora ao contrário,1,trigram
+ao contrário tem,1,trigram
+contrário tem alguma,1,trigram
+tem alguma característica,1,trigram
+alguma característica tua,1,trigram
+característica tua que,1,trigram
+tua que tu,1,trigram
+que tu achas,1,trigram
+tu achas que,1,trigram
+achas que eu,1,trigram
+que eu ou,1,trigram
+eu ou a,1,trigram
+ou a minha,1,trigram
+a minha irmã,1,trigram
+minha irmã herdámos,1,trigram
+irmã herdámos e,1,trigram
+herdámos e que,1,trigram
+e que te,1,trigram
+que te deixa,1,trigram
+te deixa orgulhosa,1,trigram
+deixa orgulhosa entrevistado,1,trigram
+orgulhosa entrevistado ahhh,1,trigram
+entrevistado ahhh com,1,trigram
+ahhh com certeza,1,trigram
+com certeza a,1,trigram
+certeza a tua,1,trigram
+a tua força,1,trigram
+tua força de,1,trigram
+força de vontade,1,trigram
+de vontade sempre,1,trigram
+vontade sempre lutei,1,trigram
+sempre lutei pelos,1,trigram
+lutei pelos meus,1,trigram
+pelos meus objetivos,1,trigram
+meus objetivos mesmo,1,trigram
+objetivos mesmo quando,1,trigram
+mesmo quando tudo,1,trigram
+quando tudo parecia,1,trigram
+tudo parecia difícil,1,trigram
+parecia difícil eu,1,trigram
+difícil eu nunca,1,trigram
+eu nunca parei,1,trigram
+nunca parei e,1,trigram
+parei e vejo,1,trigram
+e vejo isso,1,trigram
+isso em ti,1,trigram
+em ti txelito,1,trigram
+ti txelito saíste,1,trigram
+txelito saíste do,1,trigram
+saíste do país,1,trigram
+do país estás,1,trigram
+país estás a,1,trigram
+estás a estudar,1,trigram
+a estudar a,1,trigram
+estudar a trabalhar,1,trigram
+a trabalhar a,1,trigram
+trabalhar a fazer,1,trigram
+a fazer tudo,1,trigram
+fazer tudo sozinho,1,trigram
+tudo sozinho isso,1,trigram
+sozinho isso é,1,trigram
+isso é teu,1,trigram
+é teu mas,1,trigram
+teu mas também,1,trigram
+mas também tem,1,trigram
+também tem ali,1,trigram
+tem ali um,1,trigram
+ali um bocadinho,1,trigram
+um bocadinho meu,1,trigram
+bocadinho meu risos,1,trigram
+meu risos e,1,trigram
+risos e sim,1,trigram
+e sim fico,1,trigram
+sim fico mesmo,1,trigram
+fico mesmo muito,1,trigram
+mesmo muito orgulhosa,1,trigram
+muito orgulhosa disso,1,trigram
+orgulhosa disso entrevistador,1,trigram
+disso entrevistador aww,1,trigram
+entrevistador aww mãe,1,trigram
+aww mãe agora,1,trigram
+mãe agora fiquei,1,trigram
+agora fiquei com,1,trigram
+fiquei com o,1,trigram
+com o coração,1,trigram
+o coração apertado,1,trigram
+coração apertado risos,1,trigram
+apertado risos entrevistador,1,trigram
+risos entrevistador lembras-te,1,trigram
+entrevistador lembras-te de,1,trigram
+lembras-te de alguma,1,trigram
+de alguma situação,1,trigram
+alguma situação que,1,trigram
+situação que mostra,1,trigram
+que mostra bem,1,trigram
+mostra bem essa,1,trigram
+bem essa força,1,trigram
+essa força que,1,trigram
+força que tu,1,trigram
+que tu passaste,1,trigram
+tu passaste para,1,trigram
+passaste para nós,1,trigram
+para nós entrevistado,1,trigram
+nós entrevistado lembro,1,trigram
+entrevistado lembro sim,1,trigram
+lembro sim quando,1,trigram
+sim quando chegaste,1,trigram
+quando chegaste em,1,trigram
+chegaste em portugal,1,trigram
+em portugal sem,1,trigram
+portugal sem muito,1,trigram
+sem muito dinheiro,1,trigram
+muito dinheiro sem,1,trigram
+dinheiro sem casa,1,trigram
+sem casa certa,1,trigram
+casa certa tudo,1,trigram
+certa tudo incerto,1,trigram
+tudo incerto mesmo,1,trigram
+incerto mesmo assim,1,trigram
+mesmo assim tu,1,trigram
+assim tu não,1,trigram
+tu não me,1,trigram
+não me pediste,1,trigram
+me pediste nada,1,trigram
+pediste nada tu,1,trigram
+nada tu desenrascaste-te,1,trigram
+tu desenrascaste-te foste,1,trigram
+desenrascaste-te foste trabalhar,1,trigram
+foste trabalhar estudar,1,trigram
+trabalhar estudar aguentaste,1,trigram
+estudar aguentaste e,1,trigram
+aguentaste e isso,1,trigram
+e isso fez-me,1,trigram
+isso fez-me lembrar,1,trigram
+fez-me lembrar de,1,trigram
+lembrar de quando,1,trigram
+de quando eu,1,trigram
+quando eu fui,1,trigram
+eu fui viver,1,trigram
+fui viver com,1,trigram
+viver com o,1,trigram
+com o teu,1,trigram
+o teu pai,1,trigram
+teu pai também,1,trigram
+pai também queria,1,trigram
+também queria estudar,1,trigram
+queria estudar mas,1,trigram
+estudar mas tive,1,trigram
+mas tive de,1,trigram
+tive de trabalhar,1,trigram
+de trabalhar logo,1,trigram
+trabalhar logo depois,1,trigram
+logo depois engravidei,1,trigram
+depois engravidei da,1,trigram
+engravidei da tua,1,trigram
+da tua irmã,1,trigram
+tua irmã e,1,trigram
+irmã e mesmo,1,trigram
+e mesmo assim,1,trigram
+mesmo assim consegui,1,trigram
+assim consegui dar,1,trigram
+consegui dar a,1,trigram
+dar a volta,1,trigram
+a volta segui,1,trigram
+volta segui em,1,trigram
+segui em frente,1,trigram
+em frente mesmo,1,trigram
+frente mesmo cansada,1,trigram
+mesmo cansada e,1,trigram
+cansada e essa,1,trigram
+e essa força,1,trigram
+essa força essa,1,trigram
+força essa coragem,1,trigram
+essa coragem tá,1,trigram
+coragem tá aí,1,trigram
+tá aí dentro,1,trigram
+aí dentro de,1,trigram
+dentro de ti,1,trigram
+de ti também,1,trigram
+ti também entrevistador,1,trigram
+também entrevistador sim,1,trigram
+entrevistador sim eu,1,trigram
+sim eu lembro,1,trigram
+eu lembro que,1,trigram
+lembro que já,1,trigram
+que já me,1,trigram
+já me contaste,1,trigram
+me contaste isso,1,trigram
+contaste isso mas,1,trigram
+isso mas queria,1,trigram
+mas queria ouvir,1,trigram
+queria ouvir agora,1,trigram
+ouvir agora outra,1,trigram
+agora outra vez,1,trigram
+outra vez pra,1,trigram
+vez pra poder,1,trigram
+pra poder usar,1,trigram
+poder usar no,1,trigram
+usar no meu,1,trigram
+no meu trabalho,1,trigram
+meu trabalho sempre,1,trigram
+trabalho sempre foste,1,trigram
+sempre foste o,1,trigram
+foste o meu,1,trigram
+o meu exemplo,1,trigram
+meu exemplo de,1,trigram
+exemplo de coragem,1,trigram
+de coragem entrevistador,1,trigram
+coragem entrevistador obrigado,1,trigram
+entrevistador obrigado mãe,1,trigram
+obrigado mãe foi,1,trigram
+mãe foi mesmo,1,trigram
+foi mesmo bom,1,trigram
+mesmo bom falar,1,trigram
+bom falar contigo,1,trigram
+falar contigo agora,1,trigram
+contigo agora vou,1,trigram
+agora vou escrever,1,trigram
+vou escrever isto,1,trigram
+escrever isto tudo,1,trigram
+isto tudo e,1,trigram
+tudo e traduzir,1,trigram
+e traduzir também,1,trigram
+traduzir também que,1,trigram
+também que é,1,trigram
+que é para,1,trigram
+é para entregar,1,trigram
+para entregar na,1,trigram
+entregar na universidade,1,trigram
+na universidade entrevistado,1,trigram
+universidade entrevistado está,1,trigram
+entrevistado está bem,1,trigram
+está bem meu,1,trigram
+bem meu filho,1,trigram
+meu filho depois,1,trigram
+filho depois manda,1,trigram
+depois manda pra,1,trigram
+manda pra eu,1,trigram
+pra eu ver,1,trigram
+eu ver como,1,trigram
+ver como ficou,1,trigram
+como ficou sim,1,trigram
+ficou sim entrevistador,1,trigram
+sim entrevistador deixa-me,1,trigram
+entrevistador deixa-me só,1,trigram
+deixa-me só tirar,1,trigram
+só tirar uma,1,trigram
+tirar uma foto,1,trigram
+uma foto desta,1,trigram
+foto desta chamada,1,trigram
+desta chamada que,1,trigram
+chamada que é,1,trigram
+que é pra,1,trigram
+é pra pôr,1,trigram
+pra pôr como,1,trigram
+pôr como registo,1,trigram
+como registo entrevistado,1,trigram
+registo entrevistado vai,1,trigram
+entrevistado vai lá,1,trigram
+vai lá beijinhos,1,trigram
+lá beijinhos meu,1,trigram
+beijinhos meu filho,1,trigram
+meu filho qualquer,1,trigram
+filho qualquer coisa,1,trigram
+qualquer coisa estou,1,trigram
+coisa estou aqui,1,trigram
+estou aqui te,1,trigram
+aqui te amo,1,trigram
