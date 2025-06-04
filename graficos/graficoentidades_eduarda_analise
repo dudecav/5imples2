@@ -1,0 +1,15 @@
+O gráfico de barras agrupadas mostra a frequência com que diferentes entidades são mencionadas
+no conjunto de dados, classificadas em dois tipos: LOC (localização) e PESSOA. 
+A análise do gráfico revela que a maioria das entidades identificadas pertence ao tipo LOC,
+o que indica um predomínio de locais geográficos no conteúdo analisado. 
+Apenas uma entidade foi classificada como PESSOA, e sua frequência é baixa (1 ocorrência), 
+sugerindo uma menção pontual.
+A entidade mais mencionada no conjunto de dados é uma localização, 
+com uma frequência de 5 ocorrências, destacando-se claramente das demais. 
+As outras entidades, sejam locais ou pessoas, aparecem apenas uma vez, 
+o que evidencia uma distribuição concentrada de frequência: poucas entidades são recorrentes, 
+enquanto a maioria é mencionada apenas uma vez.
+Essa distribuição sugere que o texto ou corpus analisado tem um caráter informativo ou 
+descritivo, com foco principal em lugares, e que menciona muitas entidades de forma esporádica. 
+A baixa presença de nomes de pessoas também pode indicar que não se trata de uma narrativa 
+centrada em personagens, mas sim em contextos geográficos ou descritivos.
