@@ -1,0 +1,30 @@
+Análise de Frequência de Palavras
+Arquivo analisado: Pedro_Lemas.csv
+Total de palavras únicas: 132
+Palavra mais frequente: 'pai' (7 ocorrências)
+Palavra menos frequente no top 15: 'diferente' (2 ocorrências)
+
+Top 15 palavras:
+----------------------------------------
+pai: 7
+fotografia: 6
+Pedro: 6
+coisa: 5
+de ele: 5
+arte: 3
+fixe: 3
+mão: 3
+pessoa: 3
+postura: 3
+prático: 3
+achar: 2
+amigo: 2
+construção: 2
+diferente: 2
+
+Estatísticas:
+----------------------------------------
+Média de frequência: 1.45
+Mediana de frequência: 1.00
+Desvio padrão: 1.03
+Frequência total: 192

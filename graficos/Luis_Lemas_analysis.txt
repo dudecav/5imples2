@@ -1,0 +1,30 @@
+Análise de Frequência de Palavras
+Arquivo analisado: Luis_Lemas.csv
+Total de palavras únicas: 165
+Palavra mais frequente: 'Luís' (16 ocorrências)
+Palavra menos frequente no top 15: 'sentir' (3 ocorrências)
+
+Top 15 palavras:
+----------------------------------------
+Luís: 16
+achar: 12
+pai: 6
+ter: 6
+eu: 5
+herdar: 4
+filho: 4
+entrevista: 3
+entrevistadora: 3
+transmitir: 3
+algum: 3
+acreditar: 3
+irmão: 3
+mesa: 3
+sentir: 3
+
+Estatísticas:
+----------------------------------------
+Média de frequência: 1.59
+Mediana de frequência: 1.00
+Desvio padrão: 1.65
+Frequência total: 262

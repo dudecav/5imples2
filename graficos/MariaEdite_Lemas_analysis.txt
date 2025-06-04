@@ -1,0 +1,30 @@
+Análise de Frequência de Palavras
+Arquivo analisado: MariaEdite_Lemas.csv
+Total de palavras únicas: 120
+Palavra mais frequente: 'achar' (11 ocorrências)
+Palavra menos frequente no top 15: 'educação' (4 ocorrências)
+
+Top 15 palavras:
+----------------------------------------
+achar: 11
+coisa: 10
+mãe: 9
+pai: 8
+diferente: 7
+vida: 7
+conseguir: 7
+algum: 6
+Edite: 5
+característica: 5
+avó: 5
+filha: 5
+sente: 4
+fazer: 4
+educação: 4
+
+Estatísticas:
+----------------------------------------
+Média de frequência: 2.15
+Mediana de frequência: 1.00
+Desvio padrão: 1.96
+Frequência total: 258

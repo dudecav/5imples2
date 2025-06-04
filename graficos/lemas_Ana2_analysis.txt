@@ -1,0 +1,30 @@
+Análise de Frequência de Palavras
+Arquivo analisado: lemas_Ana2.csv
+Total de palavras únicas: 402
+Palavra mais frequente: 'achar' (32 ocorrências)
+Palavra menos frequente no top 15: 'filho' (8 ocorrências)
+
+Top 15 palavras:
+----------------------------------------
+achar: 32
+pai: 22
+coisa: 17
+ter: 12
+algum: 12
+herdar: 11
+mãe: 11
+eu: 10
+Roscoff: 10
+vida: 9
+pessoa: 9
+diferente: 9
+ser: 9
+característica: 8
+filho: 8
+
+Estatísticas:
+----------------------------------------
+Média de frequência: 2.16
+Mediana de frequência: 1.00
+Desvio padrão: 2.76
+Frequência total: 867

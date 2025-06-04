@@ -1,0 +1,30 @@
+Análise de Frequência de Palavras
+Arquivo analisado: Sara_Lemas.csv
+Total de palavras únicas: 49
+Palavra mais frequente: 'achar' (5 ocorrências)
+Palavra menos frequente no top 15: 'entrevista' (1 ocorrências)
+
+Top 15 palavras:
+----------------------------------------
+achar: 5
+prazer: 5
+eu: 4
+cozinhar: 4
+amor: 3
+Sara: 2
+ato: 2
+carinho: 2
+ser: 2
+algum: 2
+dar: 2
+imenso: 2
+haver: 2
+comida: 2
+entrevista: 1
+
+Estatísticas:
+----------------------------------------
+Média de frequência: 1.51
+Mediana de frequência: 1.00
+Desvio padrão: 1.02
+Frequência total: 74
