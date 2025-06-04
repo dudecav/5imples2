@@ -1,0 +1,30 @@
+Análise de Frequência de Palavras
+Arquivo analisado: frequencia_Pedro.csv
+Total de palavras únicas: 197
+Palavra mais frequente: 'é' (13 ocorrências)
+Palavra menos frequente no top 15: 'tipo' (3 ocorrências)
+
+Top 15 palavras:
+----------------------------------------
+é: 13
+fazer: 10
+pai: 7
+as: 6
+fotografia: 6
+também: 5
+muito: 5
+coisas: 5
+sim: 4
+qualquer: 4
+dele: 4
+ver: 4
+até: 3
+arte: 3
+tipo: 3
+
+Estatísticas:
+----------------------------------------
+Média de frequência: 1.58
+Mediana de frequência: 1.00
+Desvio padrão: 1.44
+Frequência total: 311

@@ -1,0 +1,30 @@
+Análise de Frequência de Palavras
+Arquivo analisado: frequencia_Luis.csv
+Total de palavras únicas: 248
+Palavra mais frequente: 'é' (12 ocorrências)
+Palavra menos frequente no top 15: 'filhos' (4 ocorrências)
+
+Top 15 palavras:
+----------------------------------------
+é: 12
+acho: 9
+pai: 6
+coisa: 5
+as: 5
+mim: 5
+sempre: 5
+ter: 5
+só: 5
+muito: 5
+mais: 5
+tinha: 4
+os: 4
+também: 4
+filhos: 4
+
+Estatísticas:
+----------------------------------------
+Média de frequência: 1.56
+Mediana de frequência: 1.00
+Desvio padrão: 1.26
+Frequência total: 387

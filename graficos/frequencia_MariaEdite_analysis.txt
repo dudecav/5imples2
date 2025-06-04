@@ -1,0 +1,30 @@
+Análise de Frequência de Palavras
+Arquivo analisado: frequencia_MariaEdite.csv
+Total de palavras únicas: 216
+Palavra mais frequente: 'as' (11 ocorrências)
+Palavra menos frequente no top 15: 'sentes' (5 ocorrências)
+
+Top 15 palavras:
+----------------------------------------
+as: 11
+acho: 11
+coisas: 10
+fazer: 10
+mãe: 9
+é: 7
+pai: 7
+diferentes: 7
+também: 7
+muito: 7
+vida: 7
+os: 6
+alguma: 6
+mais: 5
+sentes: 5
+
+Estatísticas:
+----------------------------------------
+Média de frequência: 1.96
+Mediana de frequência: 1.00
+Desvio padrão: 1.86
+Frequência total: 423

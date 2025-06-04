@@ -1,0 +1,30 @@
+Análise de Frequência de Palavras
+Arquivo analisado: frequencia_Sara.csv
+Total de palavras únicas: 65
+Palavra mais frequente: 'é' (12 ocorrências)
+Palavra menos frequente no top 15: 'coisa' (2 ocorrências)
+
+Top 15 palavras:
+----------------------------------------
+é: 12
+mais: 9
+acho: 5
+prazer: 5
+mim: 4
+os: 4
+amor: 3
+cozinhar: 3
+mesmo: 3
+parte: 3
+carinho: 2
+seja: 2
+outros: 2
+imenso: 2
+coisa: 2
+
+Estatísticas:
+----------------------------------------
+Média de frequência: 1.80
+Mediana de frequência: 1.00
+Desvio padrão: 1.86
+Frequência total: 117
