@@ -1,0 +1,24 @@
+O gráfico apresenta as 20 expressões mais frequentes identificadas no corpus analisado, 
+classificadas por tipo de n-grama (bigrama ou trigrama). Nota-se uma predominância clara 
+de bigramas, ou seja, combinações de duas palavras, enquanto apenas uma expressão entre 
+as vinte mais frequentes pertence à categoria de trigrama.
+
+A expressão mais recorrente é “a gente”, com cerca de 40 ocorrências, destacando-se 
+significativamente em relação às demais. Esse resultado sugere uma tendência de uso 
+da linguagem oral e informal, típica de contextos familiares ou conversas espontâneas. 
+Outras expressões de alta frequência como “que eu”, “meu pai”, “tem que” e “que a” 
+reforçam esse padrão.
+
+Também são comuns expressões com função gramatical ou estrutural, como “as coisas”, 
+“coisas que”, “que está”, “o que”, e “acho que”, o que pode indicar construções 
+típicas de discurso opinativo ou descritivo.
+
+A única expressão do tipo trigram entre as mais frequentes é “a gente não”,
+o que também remete à linguagem cotidiana, frequentemente usada em contextos 
+de negação ou relato pessoal.
+
+De modo geral, o gráfico revela uma forte presença de expressões de uso coloquial, 
+uma predominância de bigramas entre os n-gramas mais frequentes e uma linguagem 
+fortemente marcada pela oralidade, com foco em sujeitos humanos (“a gente”, “meu pai”, 
+“a senhora”) e estruturas verbais, o que faz sentido uma vez que o corpus vem de uma entrevista
+em áudio.
