@@ -1,0 +1,20 @@
+O gráfico apresenta as 15 palavras mais frequentes no corpus analisado. Os dados revelam um padrão linguístico 
+típico de linguagem natural, com predominância de artigos, pronomes, preposições, verbos auxiliares e palavras 
+funcionais, elementos essenciais para a estruturação do discurso.
+
+A palavra mais recorrente é “o”, com aproximadamente 250 ocorrências, seguida de perto pelo ponto final ("."), 
+o que indica a regularidade na segmentação de frases e estrutura gramatical. Outras palavras altamente frequentes 
+incluem: “que”, “ser”, “de” e “eu”, que são comuns em construções narrativas e argumentativas; Verbos como “ter” e
+“ser”, indicando ações ou estados frequentemente relatados; Pronomes pessoais e possessivos, como “eu”, “meu”, 
+e “gente”, sugerem uma linguagem centrada no indivíduo, possivelmente em narrativas pessoais ou entrevistas.
+A presença de palavras como “não” e “muito” também sugere o uso expressivo da linguagem, comum em contextos de 
+relato emocional ou avaliação subjetiva.
+Palavras como “coisa”, “um” e “em” são comuns em português falado e informal, reforçando a ideia de um corpus
+com forte componente de oralidade.
+A maioria das palavras identificadas são palavras-função (funcionais), que não carregam significado lexical forte,
+mas são fundamentais na construção da sintaxe da língua.
+Esse tipo de análise é útil como etapa preliminar para limpeza de dados (remoção de stopwords) ou para identificar
+padrões estruturais.
+Para análises mais semânticas ou temáticas, seria interessante excluir essas palavras funcionais e focar em
+termos com maior carga informativa (substantivos, adjetivos, verbos principais), e foi por causa disso que decidimos
+também incluir a análise de frequência sem as stopwords e pontuações, para os resultados serem mais informativos.
