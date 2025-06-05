@@ -22,4 +22,4 @@ Maior proporção de pronomes (estilo mais pessoal/subjetivo)
 
 Frases mais curtas e diretas
 
-Menor diversidade lexical
+Maior diversidade lexical
